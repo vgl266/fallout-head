@@ -69,6 +69,7 @@
 * [Gas Mask Hat Fix](http://www.nexusmods.com/fallout4/mods/2354) - фикс противогаза
 * [DEF_UI](https://www.nexusmods.com/fallout4/mods/10654) - комплект изменений интерфейса, теперь на экране пип-боя поместится гораздо больше информации
 * [Full Dialogue Interface](http://www.nexusmods.com/fallout4/mods/1235) - классическая система развернутых ответов в диалогах
+* [Silent Protagonist](https://www.nexusmods.com/fallout4/mods/20097) и [Subjective Cinematic Dialogue Camera](https://www.nexusmods.com/fallout4/mods/5660) - первый отключает голос протагониста, второй правит поведение камеры в диалогах в такт изменениям первого
 * [keyNuker and keyRing](http://www.nexusmods.com/fallout4/mods/5108) - классическая связка ключей
 * [No dirty water recipes](http://www.nexusmods.com/fallout4/mods/3989) - меняет в рецептах грязную воду на чистую
 * [Simple First Personish Camera](http://www.nexusmods.com/fallout4/mods/1944) - позволяет видеть себя и свою тень в режиме от первого лица
