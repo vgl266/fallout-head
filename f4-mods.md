@@ -67,6 +67,7 @@
 * [Bug Fixes and Tweaks](http://www.nexusmods.com/fallout4/mods/107) - описание различных исправлений и твиков
 * [Unofficial Fallout 4 Patch](http://www.nexusmods.com/fallout4/mods/4598) - неофициальный патч
 * [Gas Mask Hat Fix](http://www.nexusmods.com/fallout4/mods/2354) - фикс противогаза
+* [DEF_UI](https://www.nexusmods.com/fallout4/mods/10654) - комплект изменений интерфейса, теперь на экране пип-боя поместится гораздо больше информации
 * [Full Dialogue Interface](http://www.nexusmods.com/fallout4/mods/1235) - классическая система развернутых ответов в диалогах
 * [keyNuker and keyRing](http://www.nexusmods.com/fallout4/mods/5108) - классическая связка ключей
 * [No dirty water recipes](http://www.nexusmods.com/fallout4/mods/3989) - меняет в рецептах грязную воду на чистую
