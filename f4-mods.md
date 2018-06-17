@@ -119,6 +119,8 @@
 * [NX Pro Farming](http://www.nexusmods.com/fallout4/mods/2905) - позволяет создавать ёмкости для посадок растений
 * [OCDecorator - Static Loot](http://www.nexusmods.com/fallout4/mods/4270) - позволяет аккуратно расставлять предметы
 
+### Хардкор и выживание
+
 ### NPC
 
 * [Settler Renaming - Rename Settlers and NPCs](http://www.nexusmods.com/fallout4/mods/2017) - позволяет переименовывать НПЦ и поселения
