@@ -73,10 +73,6 @@
 * [keyNuker and keyRing](http://www.nexusmods.com/fallout4/mods/5108) - классическая связка ключей
 * [No dirty water recipes](http://www.nexusmods.com/fallout4/mods/3989) - меняет в рецептах грязную воду на чистую
 * [Simple First Personish Camera](http://www.nexusmods.com/fallout4/mods/1944) - позволяет видеть себя и свою тень в режиме от первого лица
-* [No Health Level Scaling](http://www.nexusmods.com/fallout4/mods/6473) - отключает зависимость уровня здоровья от уровня. Лечит такую болезнь, как всаживание двух обойм в голову противнику на высоких уровнях
-* [Binary Speech Checks](http://www.nexusmods.com/fallout4/mods/2100) - классические проверки Харизмы
-* [Classic V.A.T.S.](http://www.nexusmods.com/fallout4/mods/531) - классический V.A.T.S. с паузой
-* [Level Cap](http://www.nexusmods.com/fallout4/mods/6838) - ограничение максимального уровня персонажа
 * [Mute Player Voice](https://www.nexusmods.com/fallout4/mods/6279) - отключает голос главному герою. Внимание - вы по-прежнему будете видеть быстро исчезающие реплики на экране
 * [Alternate UI Fonts](http://www.nexusmods.com/fallout4/mods/31) - заменяет игровой шрифт на более качественный и удобочитаемый
 * [no dotdotdot](http://www.nexusmods.com/fallout4/mods/425) - убирает "обрезание" названий предметов в списках, "ужимая" их в окно
@@ -89,6 +85,10 @@
 ### Геймплей
 
 * [VAFS](https://www.nexusmods.com/fallout4/mods/15875) - наконец-то качественный мод на замену ватса буллет-таймом
+* [No Health Level Scaling](http://www.nexusmods.com/fallout4/mods/6473) - отключает зависимость уровня здоровья от уровня. Лечит такую болезнь, как всаживание двух обойм в голову противнику на высоких уровнях
+* [Binary Speech Checks](http://www.nexusmods.com/fallout4/mods/2100) - классические проверки Харизмы
+* [Classic V.A.T.S.](http://www.nexusmods.com/fallout4/mods/531) - классический V.A.T.S. с паузой
+* [Level Cap](http://www.nexusmods.com/fallout4/mods/6838) - ограничение максимального уровня персонажа
 
 ### Атмосфера и окружение
 
