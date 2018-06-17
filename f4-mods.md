@@ -127,6 +127,7 @@
 
 ### NPC
 
+* [Unique NPCs](https://www.nexusmods.com/fallout4/mods/21248) - делает копипастных NPC более уникальными. Больше разных одеяний, причёсок и намного больше лиц
 * [Settler Renaming - Rename Settlers and NPCs](http://www.nexusmods.com/fallout4/mods/2017) - позволяет переименовывать НПЦ и поселения
 * [Recruit any NPC as Follower](http://www.nexusmods.com/fallout4/mods/471) - позволяет завербовать в спутники любого NPC
 * [No Essential Npcs](http://www.nexusmods.com/fallout4/mods/837) - отключает бессмертие НПЦ
