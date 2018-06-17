@@ -121,6 +121,8 @@
 
 ### Хардкор и выживание
 
+* [Agony](https://www.nexusmods.com/fallout4/mods/25600/) - усложняет сурвайвал, добавляя ряд новых болезней и лекарств, одновременно с этим ослабляя большинство препаратов и стимпаки
+
 ### NPC
 
 * [Settler Renaming - Rename Settlers and NPCs](http://www.nexusmods.com/fallout4/mods/2017) - позволяет переименовывать НПЦ и поселения
