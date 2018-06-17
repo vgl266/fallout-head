@@ -88,6 +88,7 @@
 
 ### Атмосфера и окружение
 
+* [War Of The Commonwealth](https://www.nexusmods.com/fallout4/mods/12395) - уже ставший традиционным для игр серии мод на увеличение спауна врагов на случай, если вам было мало экшена. Рейдеры рейдят Даймонд Сити, подземка пытается захватить Акадию и тому подобное.
 * [Start Me Up](https://www.nexusmods.com/fallout4/mods/18946) или [Another Life](https://www.nexusmods.com/fallout4/mods/14253), а также его [русская версия](http://www.mediafire.com/file/go0a48oedu8qcer/Another_Life_V1.08-14253-1-08.7z) - Альтернативное начало для ролплееров. Первый включает в себя изменённые реплики NPC, чтобы к ГГ не обращались как к родителю, ищущему сына, когда он вообще хер с горы и знать не знает ни про каких сыновей
 * [See-Through Combat Scopes](http://www.nexusmods.com/fallout4/mods/9476/?) - убирает затемнение при использовании оптических прицелов
 * [Disable Radiant From ALL Factions](http://www.nexusmods.com/fallout4/mods/7277) - убирает бесконечные квесты мининитменов и других фракций (безвозвратно)
