@@ -67,6 +67,7 @@
 * [Bug Fixes and Tweaks](http://www.nexusmods.com/fallout4/mods/107) - описание различных исправлений и твиков
 * [Unofficial Fallout 4 Patch](http://www.nexusmods.com/fallout4/mods/4598) - неофициальный патч
 * [Gas Mask Hat Fix](http://www.nexusmods.com/fallout4/mods/2354) - фикс противогаза
+* [Achievements Mods Enabler](https://www.nexusmods.com/fallout4/mods/15639) - разблокирование ачивок при использовании модов.
 * [DEF_UI](https://www.nexusmods.com/fallout4/mods/10654) - комплект изменений интерфейса, теперь на экране пип-боя поместится гораздо больше информации
 * [Full Dialogue Interface](http://www.nexusmods.com/fallout4/mods/1235) - классическая система развернутых ответов в диалогах
 * [Silent Protagonist](https://www.nexusmods.com/fallout4/mods/20097) и [Subjective Cinematic Dialogue Camera](https://www.nexusmods.com/fallout4/mods/5660) - первый отключает голос протагониста, второй правит поведение камеры в диалогах в такт изменениям первого
@@ -88,6 +89,7 @@
 * [Binary Speech Checks](http://www.nexusmods.com/fallout4/mods/2100) - классические проверки Харизмы
 * [Classic V.A.T.S.](http://www.nexusmods.com/fallout4/mods/531) - классический V.A.T.S. с паузой
 * [Level Cap](http://www.nexusmods.com/fallout4/mods/6838) - ограничение максимального уровня персонажа
+* [See-Through Scopes](https://www.nexusmods.com/fallout4/mods/9476) - добавляет/заменяет оптические прицелы без черного оверлея вокруг. Мастхев.
 
 ### Атмосфера и окружение
 
@@ -127,6 +129,7 @@
 ### Хардкор и выживание
 
 * [Agony](https://www.nexusmods.com/fallout4/mods/25600/) - усложняет сурвайвал, добавляя ряд новых болезней и лекарств, одновременно с этим ослабляя большинство препаратов и стимпаки
+* [Some Assembly Required](https://www.nexusmods.com/fallout4/mods/12050/) - оверхол силовой брони, убирая практически все места ее спавна, заменяя обычными ящиками с лутом. Искать надо тщательнее, а для починки брони теперь необходимы перки.
 
 ### NPC
 
@@ -163,6 +166,21 @@
 * [All tree have leaves](http://www.nexusmods.com/fallout4/mods/847) - добавляет листья на деревья
 * [Wasteland Salon](http://www.nexusmods.com/fallout4/mods/1369) - Hair Texture Improvement Mod - улучшает текстуры волос
 * [Chem Redux](http://www.nexusmods.com/fallout4/mods/2099) - ретекстурный пак для химических препаратов
+* [All Weapons HD](https://www.nexusmods.com/fallout4/mods/8556) - улучшенные текстуры всего ванильного оружия.
+* [Cross Crit Gore-verhaul](https://www.nexusmods.com/fallout4/mods/23780) - измененные эффекты критов от энергетического оружия.
+* [Vivid Fallout - All in One](https://www.nexusmods.com/fallout4/mods/25714) - хай-рез текстурки окружения и природы.
+
+### Оружие 
+* [Anti Materiel Rifle](https://www.nexusmods.com/fallout4/mods/36922) - анти-материальная винтовка из FNV.
+* [Glock 86 - Plasma Pistol](https://www.nexusmods.com/fallout4/mods/36358) - плазменный пистолет и винтовка на базе классического Glock 86. 
+* [Service Rifle](https://www.nexusmods.com/fallout4/mods/32361) - "боевая винтовка" из FNV в различном исполнении. Также включает в себя уникальные варианты, раскиданые по карте, такие как "Винтовка Выживальщика", "Самый Американский" и не только.
+* [MG42 and MG34](https://www.nexusmods.com/fallout4/mods/38066) - "Циркулярка Гитлера", nuff said.
+* [10mm SMG](https://www.nexusmods.com/fallout4/mods/22223) - 10мм пистолет-пулемет из F3.
+* [Caravan Shotgun](https://www.nexusmods.com/fallout4/mods/28399) - двузарядный дробовик караванщика из FNV.
+* [Hunting Shotgun](https://www.nexusmods.com/fallout4/mods/22516) - охотничий помповый дробовик из FNV. 
+* [Remington 870](https://www.nexusmods.com/fallout4/mods/35362) - то же самое, но со скриптом на перезарядку и багами.
+* [Wattz Laser Gun](https://www.nexusmods.com/fallout4/mods/26386) - (почти) классическая лазерная винтовка. 
+* [DKS-501](https://www.nexusmods.com/fallout4/mods/15909) - классическая снайперская винтовка. 
 
 ### Для фошистов
 
